@@ -9,7 +9,7 @@ import os
 completed = 0
 total = 50
 
-tokens = 1_000_000
+tokens = 2_000_000
 subset_path = "tinystories_subsets/tinystories_1M.jsonl"
 
 for trial in range(1, total + 1):
@@ -36,4 +36,4 @@ for trial in range(1, total + 1):
     except Exception as e:
         print(f"❌ Error during trial {trial} for {tokens} tokens: {e}")
 
-print(f"🎉 Finished {completed} of {total} trials at 1M tokens.")
+print(f"🎉 Finished {completed} of {total} trials at 2M tokens.")
