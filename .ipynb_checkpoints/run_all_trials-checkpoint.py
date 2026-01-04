@@ -10,7 +10,7 @@ completed = 0
 total = 50
 
 tokens = 2_000_000
-subset_path = "tinystories_subsets/tinystories_1M.jsonl"
+subset_path = "tinystories_subsets/tinystories_2M.jsonl"
 
 for trial in range(1, total + 1):
     output_dir = Path(f"FUPowerResults/{tokens}_tokens/trial_{trial}")
