@@ -1,0 +1,9 @@
+perplexity: 4.9322
+inv_perplexity: 0.2028
+cs_tflops: 68.16 (BF16)
+epochs: 3
+power_samples: 151
+watts_rms: 178.17720395121867
+parameter_efficiency: 1.1753909842808517e-11
+parameter_efficiency_loss: 0.997649218
+parameter_perplexity: 4.48362096771e-09

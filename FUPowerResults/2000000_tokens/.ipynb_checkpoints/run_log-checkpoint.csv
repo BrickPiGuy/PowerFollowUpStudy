@@ -1,0 +1,2 @@
+timestamp,token_count,trial_number,accuracy,tops_used,parameter_efficiency,parameter_efficiency_loss,parameter_perplexity,epochs,power_samples,watts_rms
+2025-12-08T18:38:26.017449,2000000,1,0.2251,,1.2975004227933062e-11,0.9974049992,4.03909506584e-09,3,151,179.15730915720502
